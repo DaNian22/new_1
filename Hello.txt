@@ -2,6 +2,3 @@ This my first time use git.
 
 
 老王乱改的代码
-
-
-改错了
